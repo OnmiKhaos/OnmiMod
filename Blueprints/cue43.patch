@@ -1,0 +1,24 @@
+{"OnStop": {
+    "Actions": [
+      {
+        "$type": "1f1c883ef085c5c4b877eeb4c5da318c, AddItemToPlayer",
+        "name": "$AddItemToPlayer$50b8a8b5-c2d9-413a-9616-d947af234c77",
+        "m_ItemToGive": "!bp_bdbc8522f88745b1abb73affa291a35b",
+        "Silent": false,
+        "Quantity": 1,
+        "Identify": true,
+        "Equip": false,
+        "EquipOn": null,
+        "PreferredWeaponSet": 0,
+        "ErrorIfDidNotEquip": true
+      }
+      {
+        "$type": "6ab8dd2cc3ba43e8b76882f981bf2b99, StartEtude",
+        "name": "$StartEtude$670af86c-f7d2-4d04-8cdc-231f91c7c9ec",
+        "Etude": "!bp_80f60e663aa84c228c5089b3b74c5a84",
+        "EtudeEvaluator": null,
+        "Evaluate": false
+      }
+    ]
+  }
+}

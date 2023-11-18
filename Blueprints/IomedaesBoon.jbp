@@ -1,0 +1,65 @@
+{
+"AssetId": "1679b86199e1407e937a25c6ad338b74",
+"Data":
+{
+  "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+  "PrototypeLink": "",
+  "m_Overrides": [],
+  "Components": [
+    {
+      "$type": "4552a6007c2787f4b955ae46a377a296, AddNocticulaBonus",
+      "name": "$AddIomedaeBoon",
+      "PrototypeLink": {
+        "guid": "",
+        "name": ""
+      },
+      "m_Overrides": [],
+      "Descriptor": "UntypedStackable",
+      "HighestStatBonus": {
+        "ValueType": "Simple",
+        "Value": 6,
+        "ValueRank": "Default",
+        "ValueShared": "Damage",
+        "Property": "None",
+        "m_CustomProperty": null
+      },
+      "SecondHighestStatBonus": {
+        "ValueType": "Simple",
+        "Value": 4,
+        "ValueRank": "Default",
+        "ValueShared": "Damage",
+        "Property": "None",
+        "m_CustomProperty": null
+      }
+    }
+  ],
+  "Comment": "",
+  "m_AllowNonContextActions": false,
+  "m_DisplayName": {
+    "m_Key": "BoonOfIomedaeName"
+  },
+  "m_Description": {
+    "m_Key": "BoonOfIomedae"
+  },
+  "m_DescriptionShort": {
+    "m_Key": "",
+    "m_OwnerString": "",
+    "m_OwnerPropertyPath": "",
+    "m_JsonPath": "",
+    "Shared": null
+  },
+  "m_Icon": {
+    "guid": "451ae0023182ffa4b8f6fe684dadc812",
+    "fileid": 21300000
+  },
+  "HideInUI": false,
+  "HideInCharacterSheetAndLevelUp": false,
+  "HideNotAvailibleInUI": false,
+  "DlcType": "None",
+  "Groups": [],
+  "Ranks": 1,
+  "ReapplyOnLevelUp": false,
+  "IsClassFeature": false,
+  "IsPrerequisiteFor": []
+}
+}

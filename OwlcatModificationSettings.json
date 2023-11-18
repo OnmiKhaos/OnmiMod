@@ -1,0 +1,21 @@
+{
+    "BundlesLayout":
+    {
+        "m_Guids": [],
+        "m_Bundles": []
+    },
+    "BundleDependencies": 
+    {
+        "m_List": []
+    },
+    "BlueprintPatches": [
+		{
+		"Guid": "$3ffee49fc1a1425bb6c96d65f3f2b032",
+		"Filename": "cue2.patch"
+		},
+				{
+		"Guid": "$dd9c9ce494691cc46b21bfb315a222a1",
+		"Filename": "cue43.patch"
+		}
+	]
+}

@@ -1,0 +1,74 @@
+{
+"AssetId": "80f60e663aa84c228c5089b3b74c5a84",
+"Data":
+{
+  "$type": "de1b6b4bab9b223478a7bc8835ca81d7, BlueprintEtude",
+  "PrototypeLink": "",
+  "m_Overrides": [],
+  "Components": [
+    {
+      "$type": "fec4340333b7d1f4189d73aa8ff10eee, EtudePlayTrigger",
+      "name": "$EtudePlayTrigger$47fe65f3-cf1f-48c9-9990-b28ec12b91e3",
+      "PrototypeLink": {
+        "guid": "",
+        "name": ""
+      },
+      "m_Overrides": [],
+      "Comment": "",
+      "m_Once": true,
+      "Conditions": {
+        "Operation": "And",
+        "Conditions": []
+      },
+      "Actions": {
+        "Actions": [
+          {
+            "$type": "7e9b6e3ec852e264e8fcd8c4b5956eee, AddFact",
+            "name": "$AddFact$be0b5444-1836-4846-b8dc-fbcfb7b0961e",
+            "Unit": {
+              "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+              "name": "$PlayerCharacter$05003713-311d-4103-b296-1488b88a81f2"
+            },
+            "m_Fact": "!bp_1679b86199e1407e937a25c6ad338b74"
+          }
+        ]
+      }
+    },
+    {
+      "$type": "b20b3c539fa60ed44abbfc7e367245ea, EtudeCompleteTrigger",
+      "name": "$EtudeCompleteTrigger$cd3014e2-8c12-4f47-83bc-4de6147e2a85",
+      "PrototypeLink": {
+        "guid": "",
+        "name": ""
+      },
+      "m_Overrides": [],
+      "Comment": "",
+      "Actions": {
+        "Actions": [
+        ]
+      }
+    }
+  ],
+  "Comment": "\u0060",
+  "m_Parent": null,
+  "ActivationCondition": {
+    "Operation": "And",
+    "Conditions": []
+  },
+  "CompletionCondition": {
+    "Operation": "And",
+    "Conditions": []
+  },
+  "m_Synchronized": [],
+  "m_AllowActionStart": true,
+  "m_LinkedAreaPart": null,
+  "m_IncludeAreaParts": true,
+  "m_AddedAreaMechanics": [],
+  "m_StartsWith": [],
+  "m_StartsOnComplete": [],
+  "m_StartsParent": false,
+  "m_CompletesParent": false,
+  "m_ConflictingGroups": [],
+  "Priority": 0
+}
+}

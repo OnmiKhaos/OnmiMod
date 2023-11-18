@@ -1,0 +1,12 @@
+{
+   "strings": 
+   [
+	{"Key": "BoonOfIomedae",
+	"Value": "As a {g|Encyclopedia:Swift_Action}swift action{/g} Iomedae may grand a divine boon to a willing mortal who approaches divinity. The target immediately gains a +6 untyped {g|Encyclopedia:Bonus}bonus{/g} to any one {g|Encyclopedia:Ability_Scores}ability score{/g} of its choice, a +4 untyped bonus to any other ability score of its choice, and the Darkvision ability."
+	},
+	{
+	"Key": "BoonOfIomedaeName",
+	"Value": "Boon of Iomedae"
+	}
+   ]
+}
